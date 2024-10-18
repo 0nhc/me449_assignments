@@ -1,4 +1,7 @@
 # Assignment 1
+## 0. Part 1A
+
+https://github.com/user-attachments/assets/e4758fe9-caa0-4d67-bfb2-1ca1ed9df98e
 
 ## 1. Part 1B
 I have changed the UI_Script with specific modifications:
